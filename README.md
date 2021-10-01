@@ -2,7 +2,7 @@
 3D FPS shooter with gravity and anti-gravity "bullets".
 
 ## Gameplay  
-A project to test how to invert gravity and ended up with a fun little shooter game. You can shoot bullets on the dark grey objects and the bullets should stick to them (some bugs may interfere) and lower or increase (left or right mouse button) the objects gravity value. You can also shoot some kind of wind gust. Try get on top of a platform and shoot anti-gravity bullets and see if you can take off in the air.
+A project to test how to invert gravity and ended up with a fun little shooter game. You can shoot bullets on the dark grey objects and the bullets should stick to them (some bugs may interfere) and lower or increase (left or right mouse button) the objects gravity value. You can also shoot some kind of wind gust. There is not goal in this game, just have fun! Try get on top of a platform and shoot anti-gravity bullets and see if you can take off in the air.
 
 
 ## Controls 
